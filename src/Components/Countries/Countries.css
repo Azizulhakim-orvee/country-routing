@@ -1,0 +1,10 @@
+.countries {
+  width: 200px;
+  border: 2px solid rgb(48, 66, 48);
+  padding: 20px;
+  margin: 10px;
+  background-color: rgb(223, 226, 225);
+  color:rgb(0, 0, 0);
+  display:grid;
+}
+
